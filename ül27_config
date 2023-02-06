@@ -1,0 +1,5 @@
+config = {
+    "client_id": 'zg8LveEDGBxMFB1uJmAKsw',
+    "client_secret": 'XI4NZch4O3y2XKmlEwTWUAkEc7WK-A',
+    "user_agent": 'python:API:<version string> (by /u/Vizperrr)'
+}
