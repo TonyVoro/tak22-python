@@ -6,7 +6,7 @@ current = os.path.dirname(os.path.realpath(__file__))
 parent = os.path.dirname(current)
 sys.path.append(parent)
 
-from ül27_config import config
+from  import config
 
 reddit = praw.Reddit(
     client_id = config['client_id'],

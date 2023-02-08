@@ -1,5 +1,4 @@
 name = input('Your name: ')
-
 if name == 'Bob':
     print('Greetings, Bob!')
 
