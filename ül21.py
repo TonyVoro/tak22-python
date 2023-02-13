@@ -4,7 +4,7 @@ x = random.randint(0, 101)
 
 guess = -1
 
-while x != guess
+while x != guess:
     guess = int(input('Paku arvu: '))
 
     if x > guess:
